@@ -1,0 +1,8 @@
+body { background-color: lightblue;}
+.centered-form {
+	margin-top: 200px;
+	}
+.centered-form .panel {
+	background:rgba(255,255,255,0.8);
+	}
+
